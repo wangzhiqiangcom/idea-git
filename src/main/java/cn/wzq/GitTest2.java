@@ -2,6 +2,6 @@ package cn.wzq;
 
 public class GitTest2 {
     public static void main(String[] args) {
-        System.out.println("hhhhhhh~~~");
+        System.out.println("hhhhddhhh~~~");
     }
 }
